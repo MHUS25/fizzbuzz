@@ -1,2 +1,2 @@
 # fizzbuzz
-fizzbuzz first pair programming exercise
+fizzbuzz, first pair programming exercise
