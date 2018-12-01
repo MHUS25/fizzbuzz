@@ -1,2 +1,2 @@
-# fizzbuzz
-first pair programming exercise
+# TDDing FizzBuzz in Ruby
+
